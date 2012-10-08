@@ -8,7 +8,7 @@ The new configuration system allows all possible settings to be overriden by env
 
 ### Environment variable changes:
 
-#### deprectated
+#### deprecated
 
 * REDISTOGO_URL in favour of REDIS_URL or ENVIRONMENT_REDIS
 
